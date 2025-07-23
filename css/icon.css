@@ -2,59 +2,74 @@
 .fa-square-js {
     color: #ffa600;
     font-size: 40px;
+    transition: 0.3s ease-in;
 }
 
 .fa-css3-alt {
     color: #0073ff;
     font-size: 40px;
+    transition: 0.3s ease-in;
 }
 
 .fa-html5 {
     color: #ab5120;
     font-size: 40px;
+    transition: 0.3s ease-in;
 }
 
 .fa-github {
     color: #ffffff;
     font-size: 40px;
+    transition: 0.3s ease-in;
 }
 
 .fa-git-alt {
     color: #eb893f;
     font-size: 40px;
+    transition: 0.3s ease-in;
 }
 
 .fa-node-js {
     color: #3feb4a;
     font-size: 40px;
+    transition: 0.3s ease-in;
 }
 
 .fa-python {
     color: #3f6deb;
     font-size: 40px;
+    transition: 0.3s ease-in;
 }
 
 .fa-golang {
     color: #6282db;
     font-size: 40px;
+    transition: 0.3s ease-in;
 }
 
 .fa-php {
     color: #49417b;
     font-size: 40px;
+    transition: 0.3s ease-in;
 }
 
 .fa-java {
     color: #ff1717;
     font-size: 40px;
+    transition: 0.3s ease-in;
 }
 
 .fa-database {
     color: #454545;
     font-size: 40px;
+    transition: 0.3s ease-in;
 }
 
 .fa-c {
     color: #2a55fe;
     font-size: 40px;
+}
+
+i:hover {
+    font-size: 50px;
 }
