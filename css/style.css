@@ -63,3 +63,18 @@ body {
     padding: 10px;
 }
 
+.footer {
+    padding: 10px;
+    border-radius: 10px;
+    background: var(--blak);
+}
+
+.text-footer {
+    color: var(--background);
+}
+
+.text-footer span {
+    color: var(--white);
+    font-weight: 400;
+}
+
